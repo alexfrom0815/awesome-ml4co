@@ -1037,7 +1037,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 22. **Learning Efficient Online 3D Bin Packing on Packing Configuration Trees.** ICLR, 2022. [paper](https://openreview.net/forum?id=bfuGjlCwAq)
 
-    *Hang Zhao and Kai Xu*
+    *Hang Zhao, Yang Yu, and Kai Xu*
 
 23. **Improved Algorithms for Multi-period Multi-class Packing Problemswith Bandit Feedback** ICML, 2023. [paper](https://icml.cc/virtual/2023/poster/24252)
 
@@ -1046,6 +1046,10 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 24. **Adjustable Robust Reinforcement Learning for Online 3D Bin Packing** NeurIPS, 2023. [paper](https://openreview.net/forum?id=1mdTYi1jAW)
 
     *Pan, Yuxin and Chen, Yize and Lin, Fangzhen*
+    
+25. **Learning Physically Realizable Skills for Online Packing of General 3D Shapes** ACM Transactions on Graphics, 2023. [paper](https://arxiv.org/pdf/2212.02094.pdf)
+
+    *Hang Zhao, Zherong Pan, Yang Yu, Kai Xu*
 
 ### [Graph Edit Distance](#content)
 
